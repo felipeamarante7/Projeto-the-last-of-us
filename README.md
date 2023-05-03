@@ -2,10 +2,6 @@
   Site The Last of Us
 </h1>
 
-<p align="center">
-  <img src="src/imagens/index.png" width="100%" />
-</p>
-
 ## 💻 Projeto
 
 Este projeto tem como objetivo como criar o site da série **The Last of Us** ao usar _HTML_ e _CSS_.
